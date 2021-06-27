@@ -1,6 +1,6 @@
-install composer
-install laravel via composer
-please use php v8.00 and laravel 8.x
+# install composer
+# install laravel via composer
+# please use php v8.00 and laravel 8.x
 
 ---Importing my database---
 
